@@ -4,3 +4,4 @@
 今天好热哦！
 今天好水哦！
 today is wenthday!
+tomorrow is sunday!
